@@ -1,0 +1,15 @@
+langchain
+python-dotenv
+langchain_community
+langchain_core
+streamlit
+langchain-groq
+langchain_huggingface
+huggingface_hub
+sentence-transformers
+mysql-connector-python
+SQLAlchemy
+validators
+unstructured
+langchain-nvidia-ai-endpoints
+pandas
