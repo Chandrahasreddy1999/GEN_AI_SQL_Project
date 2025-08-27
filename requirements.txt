@@ -13,3 +13,4 @@ validators
 unstructured
 langchain-nvidia-ai-endpoints
 pandas
+xlsxwriter
